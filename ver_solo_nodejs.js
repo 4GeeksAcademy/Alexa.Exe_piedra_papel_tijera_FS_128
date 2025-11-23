@@ -24,4 +24,4 @@ if (userChoise === computerChoise){
 
 }
 
-jugar("rock");
+jugar("paper");
